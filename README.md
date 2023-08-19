@@ -6,27 +6,27 @@ Check Out the solutions here. <br></p>
 ## Index
 | S.No | Contents |
 | ------- | --- |
-| 1 | [Codeforces](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Codeforces) |
-| 2 | [Codechef](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Codechef)|
-| 3 | [Leetcode](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/LeetCode) |
-| 4 | [AtCoder](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/AtCoder)|
+| 1 | [Codeforces](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Codeforces) |
+| 2 | [Codechef](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Codechef)|
+| 3 | [Leetcode](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/LeetCode) |
+| 4 | [AtCoder](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/AtCoder)|
 
 <br>
 
 ## Practice Contests Sorted By Topic
 | S.No | Contents |
 | ------- | --- |
-| 1 | [Number Theory](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Number%20Theory) |
-| 2 | [Binary Search And Prefix Sum - I](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Practice%20Questions/Binary%20Search%201)|
+| 1 | [Number Theory](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Practice%20Questions/Number%20Theory) |
+| 2 | [Binary Search And Prefix Sum - I](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Practice%20Questions/Binary%20Search%201)|
 
 <br>
 
 ## Special Contests
 | S.No | Contents |
 | ------- | --- |
-| 1 | [Credit Suisse GCC 2021](https://github.com/algoplutus1708/Credit-Suisse-GCC-2021-Solutions)|
-| 2 | [SnackDown 2021 - Online Qualifiers](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Online%20Qualifiers)|
-| 3 | [SnackDown 2021 - Round 1A](https://github.com/algoplutus1708/Competitve-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Round%201A)|
+| 1 | [Credit Suisse GCC 2021](https://github.com/bhaumikmaan/Credit-Suisse-GCC-2021-Solutions)|
+| 2 | [SnackDown 2021 - Online Qualifiers](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Online%20Qualifiers)|
+| 3 | [SnackDown 2021 - Round 1A](https://github.com/algoplutus1708/Competitive-Programming-Solutions/tree/main/Special%20Events/SnackDown%202021%20-%20Round%201A)|
 
 <br>
 
